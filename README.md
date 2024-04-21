@@ -6,7 +6,7 @@
 
 
 </div>
-<h4 align="center">Applied Informatics Graduate Student at the University of Macedonia<br>Enthusiastic and motivated Junior Back-End Developer
+<h4 align="center">Applied Informatics Graduate Student at the University of Macedonia<br>Enthusiastic and motivated Junior Software Developer
   <br>Well versed in Python and Java</h4>
 <br>
 
