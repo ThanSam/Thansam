@@ -16,7 +16,7 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samaras-thanasis) &nbsp; [:envelope_with_arrow:](mailto:samarasthanases@gmail.com)
 
 
-- 📄 Know about my experiences: &nbsp; [:clipboard:	](https://drive.google.com/file/d/1sYxK2sy8KtlpdPj0llrc2Kr5c1W62t4h/view?usp=sharing)
+- 📄 Know about my experiences: &nbsp; [:clipboard:	](https://drive.google.com/file/d/1TdbbhCUrH-vA5_-XTOGW95vYzeqX1SWJ/view?usp=sharing)
 
 <br>
 
